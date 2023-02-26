@@ -3,7 +3,7 @@ This project is based on Java and SQLite.
 
 1- This is main page of Attendance App. You can create new class and update or delete the class that you created by holding on the class.
 <br/>
-<center>![CreateClass](https://user-images.githubusercontent.com/50543193/221412915-3fd781cc-472f-4fc8-aa82-daa2a4caf63c.png)<center>
+![CreateClass](https://user-images.githubusercontent.com/50543193/221412915-3fd781cc-472f-4fc8-aa82-daa2a4caf63c.png)
 
 2- When you click the class, you can create new students and you can also update and delete students. You can take attendance the students from this page. 
 <br/>

@@ -1,5 +1,6 @@
 # AttendanceMobileApp
 This project is based on Java and SQLite.
+<hr>
 
 1- This is main page of Attendance App. You can create new class and update or delete the class that you created by holding on the class.
 <br/>
